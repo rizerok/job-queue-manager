@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+
+# ENV
+.env
+
+# IDEs and editors
+/.idea
+
+# MacOS specific files
+.DS_STORE
